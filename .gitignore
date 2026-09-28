@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Personal captured conversations (local only)
+ttl_data/
+ttl_modules/
+
+# Regenerated outputs of ttl_care_integrated.py (samples live in examples/)
+/care_decision_*.json
+
+# Office / OS / editor temp files
+~$*
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/

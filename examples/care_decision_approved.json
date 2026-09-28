@@ -1,0 +1,52 @@
+{
+  "decision_id": "care-decision-20251210020558",
+  "timestamp": "2025-12-10T02:05:58.524614",
+  "approval_score": {
+    "evaluation_id": "technical-doc-001-approval",
+    "timestamp": "2025-12-10T02:05:58.524225",
+    "harm_level": 0.1,
+    "benefit_ratio": 0.9,
+    "control_compliance": 0.95,
+    "ethical_score": 0.9,
+    "raw_score": 91.0,
+    "final_score": 91.0,
+    "recommendation": "APPROVE",
+    "harm_mitigation_score": 90.0,
+    "benefit_sharing_score": 90.0,
+    "data_control_score": 95.0,
+    "ethical_alignment_score": 90.0
+  },
+  "compensation_score": {
+    "conversation_id": "technical-doc-001",
+    "timestamp": "2025-12-10T02:05:58.524577",
+    "cultural_markers_detected": 0,
+    "aave_usage_count": 0,
+    "historical_references_count": 0,
+    "spiritual_content_count": 0,
+    "cultural_density": 0.0,
+    "base_value_per_marker": 10.0,
+    "historical_multiplier": 1.0,
+    "commercial_use_multiplier": 1.0,
+    "raw_score": 0.0,
+    "adjusted_score": 0.0,
+    "minimum_compensation_usd": 0.0,
+    "recommended_compensation_usd": 0.0,
+    "community_benefit_percentage": 0.3,
+    "individual_compensation_percentage": 0.4,
+    "legal_defense_fund_percentage": 0.2,
+    "technology_development_percentage": 0.1,
+    "requires_attribution": false,
+    "requires_consent": false,
+    "requires_audit_trail": false
+  },
+  "status": "APPROVED",
+  "action": "Approve data use by Educational Platform Inc",
+  "compensation_required": 0.0,
+  "conditions": [
+    "Maintain attribution requirements",
+    "Annual compliance audit required",
+    "Pay $0.00 baseline fee",
+    "Report cultural content usage quarterly"
+  ],
+  "risk_level": "LOW"
+}
